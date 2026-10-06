@@ -1,4 +1,4 @@
-# Fermor — 3D Financial Experience
+# Fermor —  Financial Experience
 
 > **"Financial clarity, without the complexity."**
 
